@@ -46,4 +46,4 @@ def get_books(text, author=False, title=False):
 
 
 
-x = get_books('Lord Of The Rings', False, True)
+print(get_books('Lord Of The Rings', False, True))
